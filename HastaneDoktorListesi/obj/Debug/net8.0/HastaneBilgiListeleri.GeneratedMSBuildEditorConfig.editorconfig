@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HastaneBilgiListeleri
+build_property.RootNamespace = HastaneBilgiListeleri
+build_property.ProjectDir = C:\Users\Atakan\Desktop\HastaneDoktorListesi\HastaneDoktorListesi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Atakan\Desktop\HastaneDoktorListesi\HastaneDoktorListesi
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Doktor/DoktorDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3RvckR1emVubGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Doktor/DoktorEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3RvckVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Doktor/DoktorlarListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXERva3Rvcmxhckxpc3Rlc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Doktor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hastalik/HastalıkEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtcSGFzdGFsxLFrRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hastalik/HastalıkGüncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtcSGFzdGFsxLFrR8O8bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hastalik/HastalıkListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFsaWtcSGFzdGFsxLFrTGlzdGVzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hasta/HastaEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSGFzdGFFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hasta/HastaGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSGFzdGFHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hasta/HastaListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSGFzdGFMaXN0ZXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Hasta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Ilac/IlacEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY1xJbGFjRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Ilac/IlacGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY1xJbGFjR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Ilac/IlacListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxhY1xJbGFjTGlzdGVzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Atakan/Desktop/HastaneDoktorListesi/HastaneDoktorListesi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lt6iilpjso
